@@ -20,7 +20,7 @@
 body .toc,
 .sidefilter,
 .sidetoggle { 
-  background-color: #f9fbe7; 
+  background-color: #e6e6e6; 
 }
 
 .sidenav,
@@ -191,9 +191,9 @@ article h4 {
 /* Custom Navbar
    ------------------------------------------------------- */
 .navbar-inverse {
-  background-color: #318f7c;
+  background-color: #1f5349;
   opacity: 0.95;
-  border-color: #02735f;
+  border-color: #014b3d;
 }
 .navbar-inverse .navbar-brand {
   color: #ffffff;
